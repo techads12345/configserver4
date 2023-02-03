@@ -5,8 +5,8 @@ spring:
     password: root
   jpa:
     show-sql: true
-    hibernate:
-      ddl-auto: create
+    
+      
 eureka:
   client:
     register-with-eureka: true
